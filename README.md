@@ -32,8 +32,7 @@ Amadershopbd:-
 ## Screenshot of the application (Demo)
 ### Desktop / Laptop
 
-#### Home
-![App Screenshot](https://i.ibb.co/ZSQqhpK/screencapture-localhost-3000-shop-2022-11-27-22-09-36.png)
+
 
 
 
